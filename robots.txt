@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujiwaoxo.github.io/EVT/sitemap_index.txt
+Sitemap: https://ujiwaoxo.github.io/GHE/sitemap_index.txt
+Sitemap: https://ujiwaoxo.github.io/TfX/sitemap_index.txt
+Sitemap: https://ujiwaoxo.github.io/hfw/sitemap_index.txt
